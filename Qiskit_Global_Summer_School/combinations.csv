@@ -1,0 +1,11 @@
+optimizer,init_state,map_type,var_form,fit_val
+SLSQP,Zero,parity,RYRZ_var_form,0.01632458421134353
+SLSQP,Zero,jordan_wigner,RY_var_form,0.0027585989780147813
+SLSQP,Zero,bravyi_kitaev,RY_var_form,0.0819620388008564
+COBYLA,Zero,jordan_wigner,RYRZ_var_form,0.031023295164013698
+SLSQP,HF,parity,swaprz_var_form,0.5222684575775578
+L_BFGS_B,HF,parity,swaprz_var_form,0.522268457577556
+L_BFGS_B,Zero,parity,RYRZ_var_form,0.01795062597214314
+SLSQP,Zero,bravyi_kitaev,RY_var_form,0.0026326233290625556
+L_BFGS_B,Zero,jordan_wigner,RYRZ_var_form,0.07331649116323624
+L_BFGS_B,HF,parity,UCCSD,2.3510970947882015e-11
